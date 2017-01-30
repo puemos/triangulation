@@ -17,29 +17,12 @@ npm install triangulation --save
 ## usage
 
 ```javascript
-import triangulation from 'triangulation';
+import Triangulation from 'triangulation';
 // OR
-const triangulation = require('triangulation');
+const Triangulation = require('triangulation');
 
-// Element in the DOM
-const element = document.getElementById('triangulation');
-triangulation(element);
+const triangulation = new Triangulation("id");
+
+triangulation.refresh();
 
 ```
-
-## options
-
-speed (Integer):
-
-- 0 -> inf
-
-easing (String):
-
-- easeOutSine
-- easeInOutSine
-- easeInOutQuint
-
-to (Integer | Element):
-
-- DOM Element
-- Integer
