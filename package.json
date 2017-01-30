@@ -1,6 +1,6 @@
 {
   "name": "triangulation",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "svg triangulation animation ",
   "main": "index.js",
   "repository": {
@@ -14,8 +14,7 @@
     "animation"
   ],
   "homepage": "https://github.com/Puemos/triangulation",
-  "dependencies": {
-  },
+  "dependencies": {},
   "scripts": {
     "build": "gulp build",
     "prepublish": "gulp build"
