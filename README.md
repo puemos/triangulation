@@ -1,6 +1,9 @@
-# triangulation
+# Triangulation generator
+
 
 [![NPM](https://nodei.co/npm/triangulation.png?downloads=true)](https://nodei.co/npm/triangulation/)
+
+![demo](/triangulation.gif?raw=true)
 
 
 ## Credit:
