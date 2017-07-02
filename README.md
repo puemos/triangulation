@@ -1,5 +1,8 @@
 # triangulation
 
+[![NPM](https://nodei.co/npm/triangulation.png?downloads=true)](https://nodei.co/npm/triangulation/)
+
+
 ## Credit:
 
 @zessx <http://codepen.io/zessx>
